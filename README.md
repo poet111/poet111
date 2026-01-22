@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 guiagent项目：
 技术栈：vllm、pyinstall、openai、pyautogui
 1. 使用vllm进行VLM部署，抛出端口发布服务供其他主机访问
-2. 设计满足openai协议的messages格式
-3. 编写Agent程序，包括截屏、访问api、解析响应、使用pyautogui执行动作、轨迹维护等一系列功能
-4. 使用Python库pyinstall对Agent程序进行打包
+2. 编写Agent程序，包括截屏、访问api、解析响应、使用pyautogui执行动作、轨迹维护等一系列功能
+3. 使用Python库pyinstall对Agent程序进行打包
 
 车损助手项目：
 技术栈：vllm、gradio、openai、moco、dinov3
