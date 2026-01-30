@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 教育经历：
+
 哈尔滨工业大学      本科      电子信息工程
+
 哈尔滨工业大学      硕士      新一代电子信息技术
 
 guiagent项目：
